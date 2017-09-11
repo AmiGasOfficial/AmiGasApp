@@ -14,6 +14,13 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
+        <TextView
+            android:id="@+id/viewTest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HOME"
+            android:textAlignment="center"
+            android:textSize="100sp" />
     </FrameLayout>
 
     <android.support.design.widget.BottomNavigationView
