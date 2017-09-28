@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">AmiGas</string>
-    <string name="title_home">Home</string>
-    <string name="title_map">Map</string>
-    <string name="title_account">Account</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_account">Cuenta</string>
+
 </resources>
